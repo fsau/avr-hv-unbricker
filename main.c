@@ -12,12 +12,12 @@
 FUSES =
 {
     .low = (LFUSE_DEFAULT|~FUSE_CKDIV8),
-    .high = (HFUSE_DEFAULT&FUSE_BODLEVEL1),
+    .high = (HFUSE_DEFAULT),
     .extended = (EFUSE_DEFAULT),
 };
 
 void
 main (void)
 {
-  
+
 }
