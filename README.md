@@ -1,4 +1,4 @@
-# avr-hv-resetter
+# avr-hv-unbricker
 
 ## What is this?
 
